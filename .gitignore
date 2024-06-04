@@ -1,0 +1,98 @@
+# Maven build output
+/target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Intellij IDEA project files
+.idea/
+*.iml
+*.iws
+
+# NetBeans project files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code project files
+.vscode/
+
+# Mac OS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE-specific files and folders
+# Intellij IDEA
+*.ipr
+*.iws
+*.idea/
+*.iml
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/suggestions
+.idea/**/inspectionProfiles
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# VS Code
+.vscode/
+
+# Maven specific files
+.mvn/timing.properties
+mvnw
+mvnw.cmd
+
+# Other files
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*.rej
+*.class
+
+# Ignore all files in the target folder
+target/
+
+# Ignore the Maven wrapper files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Ignore build output files
+/build/
